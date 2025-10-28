@@ -1,16 +1,13 @@
-## DavidBash
+## LearnYouBash
 
- Workshop de fundamentos de Bash Scripting de 0 a 100, ejercicios y ejemplos
- desde crear una variable, gestion de arreglos, condicionales, ciclos hasta crear programas completos y hacer debug de acuerdo a las funcionalidades del la terminal
+Bash Scripting Fundamentals Workshop from 0 to 100, with exercises and examples
 
- Parte de la serie de Workshops de NodeSchool
+From creating variables, managing arrays, and using conditionals and loops to developing complete programs and debugging using the terminal's features.
 
-## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+Part of the NodeSchool Workshop Series
 
-## NodeSchool Workshop
-- https://github.com/denysdovhan/learnyoubash/
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
-
+## License
 [MIT](https://opensource.org/licenses/MIT)
